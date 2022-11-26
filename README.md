@@ -28,3 +28,4 @@ wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_
 ```
 neuro lab change
 ```
+git 
